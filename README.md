@@ -1,6 +1,6 @@
 # my-eighth-repo
 my testing
-import o
+import os
 import shutil
 from pathlib import Path
 
